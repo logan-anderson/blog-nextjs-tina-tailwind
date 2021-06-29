@@ -42,7 +42,7 @@
     "next-tinacms-cloudinary": "^0.1.2",
     "postcss": "^8.1.7",
     "prop-types": "15.7.2",
-    "raw-loader": "4.0.1",
+    "raw-loader": "4.0.2",
     "react": "17.0.1",
     "react-awesome-reveal": "^3.5.2",
     "react-collapsible": "2.8.0",
