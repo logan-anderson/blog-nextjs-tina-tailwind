@@ -10359,11 +10359,12 @@ react-tinacms-date@0.41.1:
     moment ">=2 <=3"
     react-datetime "^2.16.3"
 
-react-tinacms-editor@0.41.1:
-  version "0.41.1"
-  resolved "https://registry.yarnpkg.com/react-tinacms-editor/-/react-tinacms-editor-0.41.1.tgz#c031278b7ec9296f1060e2cf3b36ffad96a37e61"
-  integrity sha512-HEN9shMpnt9xRgAfoNebKvBAAeYYMBFO3kX5p9SbzeRslrQ7xCH/qM+iI+CvOAFunKHNiwHWvChEAJx9G/lweA==
+react-tinacms-editor@0.43.0:
+  version "0.43.0"
+  resolved "https://registry.yarnpkg.com/react-tinacms-editor/-/react-tinacms-editor-0.43.0.tgz#91422db41cd838c3d3183d52678e37a0e6a8b431"
+  integrity sha512-9vaat5fN2JKAMFNTLys+HZH/Zhxf4GSVRiuepSgyYOv9k/4yH8i5EWj3im3eAmW3oU+jOL6TYQBEwCGMf0LxVQ==
   dependencies:
+    "@tinacms/form-builder" "^0.39.0"
     codemirror "^5.42.2"
     lodash.debounce "^4.0.8"
     lodash.get "^4.4.2"
