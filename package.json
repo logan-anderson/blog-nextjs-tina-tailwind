@@ -51,7 +51,7 @@
     "react-syntax-highlighter": "15.3.0",
     "react-tinacms-date": "0.41.1",
     "react-tinacms-editor": "0.41.1",
-    "react-tinacms-inline": "0.41.1",
+    "react-tinacms-inline": "0.43.0",
     "rss": "1.2.2",
     "slugify": "1.4.0",
     "styled-components": "5.1.1",
